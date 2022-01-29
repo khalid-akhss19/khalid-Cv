@@ -1,0 +1,61 @@
+.top-block{
+    background-color:rgb(128, 128, 128);
+    height: 250px;
+}
+.prof_pc{
+    height:25%;
+    border-radius: 100px;
+    margin: 30px;
+    margin-left: 200px;
+    border: 3px solid white;
+
+
+}
+.prof_heading{
+    color:white;
+    margin: 50px;
+
+}
+.Heading-1{
+    font-weight: bold;
+}
+.left_col{
+    background-color: rgb(208, 208, 218);
+    color:black;
+
+}
+.headding{
+    margin: 20px;
+    font-size: 20px;
+
+}
+.paragraphleft{
+    margin: 20px;
+    font-size: 18px;
+}
+.icn1{
+    margin: 20px;
+    font-size: 18px;
+}
+.dot {
+    list-style-type: none;
+    font-size: 18px;
+}
+.dot1 {
+    font-size: 18px;
+}
+
+
+.linee{
+    border-top: 2px solid black ;
+}
+
+/* right bar */
+.rightbar{
+    background-color:whitesmoke;
+}
+ol.turn_toromon{
+    font-size: 18px;
+    list-style-type: lower-roman;
+
+}
